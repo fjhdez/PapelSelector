@@ -3,10 +3,10 @@
   <Profiles />
   <Settings>
     <Setting Name="Nombre1" Type="System.String" Scope="User">
-      <Value Profile="(Default)">CORORASA</Value>
+      <Value Profile="(Default)">PAPEL1</Value>
     </Setting>
     <Setting Name="Nombre2" Type="System.String" Scope="User">
-      <Value Profile="(Default)">OPC</Value>
+      <Value Profile="(Default)">PAPEL2</Value>
     </Setting>
     <Setting Name="Printer1" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
